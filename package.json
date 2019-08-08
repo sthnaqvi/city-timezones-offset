@@ -1,0 +1,36 @@
+{
+  "name": "city-timezones-offset",
+  "version": "0.0.1",
+  "description": "A lightweight module to get timezones and offset for a particular city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthnaqvi/city-timezones-offset.git"
+  },
+  "keywords": [
+    "offset",
+    "timezones",
+    "city",
+    "cities",
+    "global",
+    "lookups",
+    "geo",
+    "countries",
+    "country",
+    "timezone",
+    "time",
+    "date"
+  ],
+  "author": "Sayed Tauseef Naqvi <tauseef.naqvi786@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sthnaqvi/city-timezones-offset/issues"
+  },
+  "homepage": "https://github.com/sthnaqvi/city-timezones-offset#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
