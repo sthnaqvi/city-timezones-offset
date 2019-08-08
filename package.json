@@ -1,6 +1,6 @@
 {
   "name": "city-timezones-offset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight module to get timezones and offset for a particular city",
   "main": "index.js",
   "scripts": {
