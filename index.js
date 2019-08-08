@@ -69,5 +69,5 @@ const countriesAndTimezones = {
         };
     }
 };
-const city = countriesAndTimezones.findFromCityStateProvince('lucknow india');
+
 module.exports = countriesAndTimezones;
